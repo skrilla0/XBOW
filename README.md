@@ -1,30 +1,34 @@
 # XBOW
 
 🏹 XBOW: The Enterprise "Wedge" Strategy
+
 Subject: Strategic POV for the Enterprise AE Role
+
 Prepared by: Carl Garcia
 
 Thesis: Transitioning the Enterprise segment from "Human-Paced" Defense to "Machine-Speed" Continuous Assurance.
 ---
 ## 01. The 2026 Reality: Tempo is the New Baseline
 
-Oege nailed the problem: We are in a **"Chaos Phase."** The **GTG-1002** intrusion proved that attackers aren't necessarily getting smarter, but they’re just getting faster. While defenders are waiting for a manual pentest report to clear legal, the attacker has already iterated 100 times.
+Oege nailed the problem: We are in a [Chaos Phase.](https://xbow.com/blog/the-chaos-phase-ai-cybersecurity-threats-2025) The **GTG-1002** intrusion proved that attackers aren't necessarily getting smarter, but they’re just getting faster. While defenders are waiting for a manual pentest report to clear legal, the attacker has already iterated 100 times.
 
-[2026 Outlook] (https://xbow.com/blog/security-in-2026-what-breaks-what-scales-and-what-survives)
+REF: [Security in 2026: What Breaks, What Scales, and What Survives](https://xbow.com/blog/security-in-2026-what-breaks-what-scales-and-what-survives)
 
 **The Mission:** We aren't selling a "better pentest." We are selling **Machine-Speed Tempo.**
 
 ## 02. The Enterprise "Wedges" (Where we actually win)
-CISOs are tired of tools, they want outcomes. Here is how I plan to wedge XBOW into the Enterprise by targeting the "Manual Validation Bottleneck." 
+CISOs are tired of tools, they want outcomes. 
 
-Traditional Enterprise security is reactive. Security teams wait for a manual audit, while engineering teams ship code daily. This creates a "Security Debt" that grows exponentially.
+Here is how I plan to wedge XBOW into the Enterprise by targeting the "Manual Validation Bottleneck." 
 
-I see four primary "High-Gravity" wedges to land XBOW in the Enterprise Segmment:
+Traditional Enterprise security is reactive. Security teams wait for a manual audit, while engineering teams ship code daily. This creates Security Debt that grows exponentially.
+
+I see four primary "High-Gravity" wedges to land XBOW in the Enterprise Segment:
 
 ⚡ **Wedge A: Supply Chain Validation**
 The Pain: Third-party vendor risk management (TPRM) is currently just a bunch of PDF questionnaires.
 
-The XBOW Play: "Show me, don't tell me." Use XBOW to validate the external security claims of critical software vendors. Key example include the impact (where and what?) of Log4j vulernability showing the fragility of supply chain attacks used in everyday Java-based applications.
+The XBOW Play: "Show me, don't tell me." Use XBOW to validate the external security claims of critical software vendors. Key Example include understanding Where? and What is the impact? of Log4j vulnernability showing the fragility of the supply chain in SDLC used in commonly used app stacks. 
 
 💡 **Wedge: B: Increase Compliance Velocity**
 
@@ -40,7 +44,7 @@ The XBOW Play: Integrate XBOW directly into your CI/CD pipeline. It doesn't just
 
 🛡️ **Wedge D: Proliferation of AI-generated/Assisted Code stay at Bay**
 
-The Pain: Human security reviewers cannot keep up with the sheer volume of AI-generated code being committed.
+The Pain: Human security reviewers cannot keep up with the expotential increase in volume of AI-generated code being committed. Enterprise Proofpoint: In Q3 Earnings Call FY 20025 more than 40% of Walmart's new software code is now either AI-generated or AI-assisted. 
 
 The XBOW Play: XBOW is the only engine that reads the source code (Whitebox) and attacks the running app (Blackbox) simultaneously, catching the logic flaws that AI coding assistants introduce.
 
@@ -64,13 +68,13 @@ The XBOW Play: XBOW is the only engine that reads the source code (Whitebox) and
 * Continued PG (Pipe Gen) towards building 4x pipeline to revenue target
 * Pipeline Progression: Move from initial land experiments to repeatable playbooks 
 
-**##04 Why Me for XBOW**
+## **04. Why XBOW for Me**
 
-* **CISO Alignment (The Cloudflare Foundation):** 6 years at Cloudflare partnering with security orgs to build defensive security postures. Understand/thinking about what keeps a CISO up at night. Recognize the shift and importance in OffSec (red team/blue team) to match the new rapid itertive pace in the GenAI age. 
-* **Technically Fluency**  I'm technically curious and follow the "eat own dog food" mantra to gain technically fluent with the customer: from Developer -> CX Suite to demonstrate value driven by tangible business outcomes.
+* **CISO Alignment (The Cloudflare Foundation):** 6 years at Cloudflare partnering with security orgs to build defensive security postures. Understand/thinking about what keeps a CISO up at night. Recognize the shift and importance in OffSec (red team/blue team) to match the new rapid iteritive pace of the GenAI age. 
+* **Technically Fluency**  I'm technically curious and follow the "eat own dog food" mantra to gain technical fluency with the customer: from Developer -> CX Suite to demonstrate value driven by tangible business outcomes.
 * **Builder Mindset:** Passionate about building at the intersection of InfoSec + AI. Fueled by helping the team build the winning playbook to help contribute to the overall direction/impact of the **team**. 
   
-**##05 Contact Me 
+## **05. Contact Me** 
 
 https://www.linkedin.com/in/carlgarcia
 
